@@ -5,6 +5,7 @@ Download from (https://www.kaggle.com/competitions/store-sales-time-series-forec
 - holidays_events.csv
 - stores.csv
 - transaction.csv
+- test.csv
 
 To generate a small sample for testing:
 

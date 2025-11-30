@@ -3,28 +3,42 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="C:\Users\chauh\Downloads\store-sales-time-series-forecasting\holidays_events.csv">
+        <entry key="\data\holidays_events.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="C:\Users\chauh\Downloads\store-sales-time-series-forecasting\stores.csv">
+        <entry key="\data\stores.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="C:\Users\chauh\Downloads\store-sales-time-series-forecasting\test.csv">
+        <entry key="\data\test.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="C:\Users\chauh\Downloads\store-sales-time-series-forecasting\transactions.csv">
+        <entry key="\data\transactions.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\table1_classification_comparison.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\table2_regression_comparison.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
